@@ -1,0 +1,35 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+
+# App data
+data/
+
+# Generated during the tutorial workflow
+spec.md
+tasks.md
+CLAUDE.md
+package.json
+package-lock.json
+tsconfig.json
+
+# Temporary Word lock files
+~$*.docx
+
+# Environment & secrets
+.env
+.env.*
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code local config
+.claude/
